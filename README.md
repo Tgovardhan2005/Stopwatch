@@ -2,6 +2,12 @@
 
 A simple stopwatch timer web application created using only **HTML**, **CSS**, and **JavaScript** (with `setInterval` for timing logic). No external libraries or frameworks are used.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/0f83297e-f02f-4f2a-92c6-188417b3fc19)
+ <!-- Replace with your screenshot file if available -->
+
+
 ## Features
 
 - **Start, Stop, and Reset:** Control the stopwatch with buttons.
@@ -37,12 +43,3 @@ project/
 ├── script.js
 └── timer icon.png
 ```
-
-## Screenshot
-
-![image](https://github.com/user-attachments/assets/0f83297e-f02f-4f2a-92c6-188417b3fc19)
- <!-- Replace with your screenshot file if available -->
-
-## Project Description
-
-This Stopwatch Timer demonstrates how to build a functional and visually appealing timer using only basic web development tools. The timer relies on JavaScript's `setInterval` for updating the display, and simple DOM manipulation for user interaction. The project is perfect for learning about timers, intervals, and UI updates with vanilla JavaScript.
