@@ -7,7 +7,7 @@ var hour=0;
 var setInt;
 function start(){
     if(setInt){
-        return; //not to execute speedly after clicking multiple times
+        return;
     }
     setInt=setInterval(()=>{
         sec++;
