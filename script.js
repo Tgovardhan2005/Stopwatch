@@ -22,7 +22,7 @@ function start(){
         }
         clock_hour=hour%60;
         timer.innerText=`${clock_hour.toString().padStart(2,'0')}:${clock_min.toString().padStart(2,'0')}:${clock_sec.toString().padStart(2,"0")}`;
-    },100);
+    },1000);
 }
 function stop(){
     clearInterval(setInt);
