@@ -2,12 +2,6 @@
 
 A simple stopwatch timer web application created using only **HTML**, **CSS**, and **JavaScript** (with `setInterval` for timing logic). No external libraries or frameworks are used.
 
-## Screenshot
-
-![image](https://github.com/user-attachments/assets/0f83297e-f02f-4f2a-92c6-188417b3fc19)
- <!-- Replace with your screenshot file if available -->
-
-
 ## Features
 
 - **Start, Stop, and Reset:** Control the stopwatch with buttons.
@@ -23,6 +17,12 @@ A simple stopwatch timer web application created using only **HTML**, **CSS**, a
 - **Reset:** Click `RESET` to zero the timer.
 
 All logic is handled in JavaScript using `setInterval` to update the timer every 1000 milliseconds.
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/0f83297e-f02f-4f2a-92c6-188417b3fc19)
+ <!-- Replace with your screenshot file if available -->
+
 
 ## Usage
 
