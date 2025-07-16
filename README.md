@@ -1,6 +1,6 @@
-# Stopwatch Timer ⏲️
+# Stopwatch ⏲️
 
-A simple stopwatch timer web application created using only **HTML**, **CSS**, and **JavaScript** (with `setInterval` for timing logic). No external libraries or frameworks are used.
+A simple stopwatch web application created using only **HTML**, **CSS**, and **JavaScript** (with `setInterval` for timing logic). No external libraries or frameworks are used.
 
 ## Features
 
