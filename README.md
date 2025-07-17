@@ -23,8 +23,6 @@ All logic is handled in JavaScript using `setInterval` to update the timer every
 ![image](https://github.com/user-attachments/assets/0f83297e-f02f-4f2a-92c6-188417b3fc19)
  <!-- Replace with your screenshot file if available -->
 
-## Link
-<https://tgovardhan2005.github.io/Stopwatch/>
 
 ## Usage
 
